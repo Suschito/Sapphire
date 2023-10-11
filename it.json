@@ -1,0 +1,75 @@
+{
+    "settings" : {
+        
+    },
+
+    "ui" : {
+
+        "post" : "Post",
+
+        "yeah" : "Siì!",
+        "unyeah" : "Rimuovi Siì",
+
+        "favorite" : "Preferito",
+        "unfavorite" : "Rimuovi Preferito",
+
+        "communities" : "Gruppi",
+        "new_communities" : "Nuovi gruppi",
+        "popular_communities" : "Gruppi popolari",
+        "all_communities" : "Tutti i gruppi",
+
+        "profile" : "Profilo",
+        "your" : "Il/la tuo/a",
+        "profile_settings" : "Impostazioni profilo",
+
+        "country" : "Paese",
+        "game_experience" : "Esperienza di gioco",
+        "yeahs" : "Siì dati",
+        "posts" : "Post effettuati",
+
+        "settings" : {
+            
+        }
+    },
+
+    "newUser" : {
+        "welcomeHeader" : "Benvenuto/a a Sapphire!",
+        "welcome" : "Benvenuti su Sapphire. Una piattaforma di social networking online, progettata per aiutare i giocatori di Wii U di tutto il mondo a connettersi tra loro. Sembra che sia la prima volta che vieni qui, iniziamo!",
+
+        "rulesHeader" : "Regole da tenere presenti...",
+        "preRules" : "Per garantire un ambiente sicuro a tutte le persone, sono state stabilite delle regole. Vi invitiamo a leggere attentamente tutte le regole e a rispettarle durante l'utilizzo di Sapphire.",
+
+        "nnidSetupHeader" : "Configurazione NNID.",
+        "nnidSetup" : "Inserire il NNID del tuo account.",
+
+        "nnidComplete" : "Fantastico! Ora sei un membro ufficiale di Sapphire! Prima di iniziare, vediamo le regole...",
+        "nnidCompleteHeader" : "Complimenti!",
+
+        "welcomeEnding" : "Benvenuto/a a Sapphire!"
+    },
+
+    "rules" : [
+        {
+            "name" : "No NSFW",
+            "description" : "Si prega di non caricare alcun tipo di materiale NSFW o volgare che potrebbero mettere a disagio gli altri utenti. Questo include disegni, screenshot o testi. Tutti meritano uno spazio felice e sicuro."
+        },
+        {
+            "name" : "No contenuto offensivo",
+            "description" : "Tutto ciò che è ritenuto offensivo non sarà tollerato, e questo include: Razzismo, Discriminazione, Omofobia, Transfobia o qualsiasi discorso di odio.",
+            "image" : "offensive"
+        },
+        {
+            "name" : "Non pubblicare spoiler!",
+            "description" : "Molte persone entrano in Sapphire alla ricerca di nuovi suggerimenti o trucchi per i loro giochi preferiti, e non per spoilerare l'intero gioco. Se stai postando qualcosa che contiene uno spoiler su un gioco, assicurati di spuntare la casella spoiler!",
+            "image" : "spoiler"
+        }, 
+        {
+            "name" : "Nessun dato sensibile",
+            "description" : "Si prega di non caricare su Sapphire alcun tipo di informazione sensibile. Ciò include informazioni quali indirizzi, nomi completi, indirizzi IP, città, stati ecc."
+        },
+        {
+            "name" : "Seguiamo queste regole e manteniamo Sapphire al sicuro!",
+            "description" : "Il rispetto di queste regole garantisce una zona sicura e divertente per tutti i ceti sociali, per esplorare, incontrare nuovi amici e divertirsi!"
+        }
+    ]
+}
